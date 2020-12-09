@@ -1,0 +1,43 @@
+--10 сериалов с максимальным количеством сезонов:
+          title    duration
+ Grey's Anatomy  15 Seasons
+           NCIS  15 Seasons
+
+--10 самых долгих фильмов:
+                                         title duration
+                    Black Mirror: Bandersnatch  312 min
+                                        Sangam  228 min
+                                        Lagaan  224 min
+                                  Jodhaa Akbar  214 min
+                                  The Irishman  209 min
+                            The Gospel of Luke  205 min
+                          What's Your Raashee?  203 min
+ The Lord of the Rings: The Return of the King  201 min
+                                Doctor Zhivago  200 min
+                        Elephants Dream 4 Hour  196 min
+
+--Самый популярный актер:
+Anupam Kher: 33
+
+--Самая популярная пара актеров:
+John Paul Tremblay, Robb Wells: 15
+
+--10 случайных фильмов:
+                                title
+            The Jane Austen Book Club
+                            Bombshell
+                    Life Overtakes Me
+                               Magnus
+ Indiana Jones and the Temple of Doom
+                       American Heist
+                          Ghost Rider
+     Dark Chocolate (Bengali Version)
+                      The Bucket List
+                   Despido Procedente
+
+--3 случайные работы из Великобритании с рейтингом PG:
+                                       country                 title rating
+ United States, Germany, United Kingdom, Italy  Terminator Salvation  PG-13
+         United States, Canada, United Kingdom             Insidious  PG-13
+                                United Kingdom              The Code  TV-PG
+
