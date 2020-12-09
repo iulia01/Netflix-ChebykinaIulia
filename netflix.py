@@ -8,7 +8,7 @@ def TV_Series_with_maximum_seasons(reader, f):
     t = reader[reader['duration'].str.contains('Season')]
     max_seasons = sorted(t['duration'].tolist(), reverse=True, key=lambda x: int(x.split()[0]))[0]
     TV_series_with_max_seasons = t[t['duration'] == max_seasons][['title', 'duration']].to_string(index=False)
-    f.write(f"---10 сериалов с максимальным количеством сезонов:\n{TV_series_with_max_seasons}\n\n")
+    f.write(f"---Сериалы с максимальным количеством сезонов:\n{TV_series_with_max_seasons}\n\n")
 
 
 def top10_longest_movies(reader, f):

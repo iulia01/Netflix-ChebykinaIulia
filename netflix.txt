@@ -1,4 +1,4 @@
----10 сериалов с максимальным количеством сезонов:
+---Сериалы с максимальным количеством сезонов:
           title    duration
  Grey's Anatomy  15 Seasons
            NCIS  15 Seasons
@@ -23,21 +23,21 @@ Anupam Kher: 33
 John Paul Tremblay, Robb Wells: 15
 
 ---10 случайных фильмов:
-                            title
-        EVANGELION: DEATH (TRUE)²
-                A Noble Intention
-                             Qila
-                       Article 15
-                           Guilty
-                     The Bad Kids
- Brené Brown: The Call to Courage
-                     Cop Watchers
-     Christina P: Mother Inferior
-             100 Days Of Solitude
+                                  title
+                      It's Now or Never
+ Star Wars: Episode VIII: The Last Jedi
+                                  Drive
+                          Tarif de nuit
+                 Race to Witch Mountain
+                           Jimi Hendrix
+                    Garfield's Fun Fest
+                                    Boi
+                             Trash Fire
+                          In My Country
 
 ---3 случайные работы из Великобритании с рейтингом PG:
-                       country                           title rating
-                United Kingdom  Secrets of the Tower of London  TV-PG
-     Australia, United Kingdom               Strictly Ballroom     PG
- United States, United Kingdom    Nature's Great Events (2009)  TV-PG
+                                  country                   title rating
+                           United Kingdom  World's Busiest Cities  TV-PG
+ United States, United Kingdom, Australia                 Knowing  PG-13
+            United Kingdom, United States        Arthur Christmas     PG
 
